@@ -1,0 +1,12 @@
+#show-destination-object {
+  display: none;
+}
+
+.location {
+  cursor: pointer;
+  color: black;
+}
+
+.location:hover {
+  text-decoration: underline;
+}
